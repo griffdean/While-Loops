@@ -50,3 +50,24 @@ while(x > 1){
   x -= 2;
 }
 //outputs 3
+
+int age = 50;
+while(50 <= 100){
+  print(age);
+  age += 50;
+}
+//outputs 50, 100
+
+int num = 7;
+while(num > 1){
+  print(num);
+  num--;
+}
+//outputs 7, 6, 5, 4, 3, 2
+
+int x = 1;
+while(x > 1){
+  print(x);
+  x--;
+}
+//outputs nothing
